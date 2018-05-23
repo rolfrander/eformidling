@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brukes av"
+    id="c57db802-8e0c-475b-bb9d-674b5815089a">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_791bc794-8e45-43a2-b3ce-8bbccb908b28.xml#791bc794-8e45-43a2-b3ce-8bbccb908b28"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_82e524c5-8d21-456d-8654-83e221f38262.xml#82e524c5-8d21-456d-8654-83e221f38262"/>
+</archimate:ServingRelationship>

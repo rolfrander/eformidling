@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Representerer"
+    id="a3e66b07-e88b-4fd2-9108-bdbeea32263d">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_e6239684-164f-4c14-883c-b14b28f607f9.xml#e6239684-164f-4c14-883c-b14b28f607f9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_d94bcde7-8f2b-4414-826f-9705a7b849a1.xml#d94bcde7-8f2b-4414-826f-9705a7b849a1"/>
+</archimate:AssociationRelationship>
