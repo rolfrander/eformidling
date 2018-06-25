@@ -65,7 +65,7 @@
           href="AssociationRelationship_e54bd3bb-ff00-489f-b043-4e6cad5b610d.xml#e54bd3bb-ff00-489f-b043-4e6cad5b610d"/>
     </sourceConnections>
     <bounds
-        x="84"
+        x="288"
         y="204"
         width="120"
         height="55"/>
@@ -87,7 +87,7 @@
           href="AssociationRelationship_a3e66b07-e88b-4fd2-9108-bdbeea32263d.xml#a3e66b07-e88b-4fd2-9108-bdbeea32263d"/>
     </sourceConnections>
     <bounds
-        x="887"
+        x="828"
         y="204"
         width="120"
         height="55"/>
@@ -109,9 +109,9 @@
           href="ServingRelationship_c57db802-8e0c-475b-bb9d-674b5815089a.xml#c57db802-8e0c-475b-bb9d-674b5815089a"/>
     </sourceConnections>
     <bounds
-        x="696"
+        x="672"
         y="324"
-        width="120"
+        width="108"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -132,8 +132,8 @@
     </sourceConnections>
     <bounds
         x="288"
-        y="204"
-        width="120"
+        y="108"
+        width="228"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Contract"
@@ -153,9 +153,9 @@
           href="AssociationRelationship_81eb1ebe-b140-4d56-8cba-89ca19890b6a.xml#81eb1ebe-b140-4d56-8cba-89ca19890b6a"/>
     </sourceConnections>
     <bounds
-        x="696"
-        y="204"
-        width="120"
+        x="576"
+        y="108"
+        width="372"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Contract"
@@ -188,7 +188,7 @@
           href="ServingRelationship_d95669f2-8d82-4489-99d7-55006b94d7d2.xml#d95669f2-8d82-4489-99d7-55006b94d7d2"/>
     </sourceConnections>
     <bounds
-        x="84"
+        x="288"
         y="324"
         width="120"
         height="55"/>
@@ -210,7 +210,7 @@
           href="RealizationRelationship_e38fb903-f6ff-4999-b86d-4eb35632f045.xml#e38fb903-f6ff-4999-b86d-4eb35632f045"/>
     </sourceConnections>
     <bounds
-        x="887"
+        x="828"
         y="324"
         width="120"
         height="55"/>
