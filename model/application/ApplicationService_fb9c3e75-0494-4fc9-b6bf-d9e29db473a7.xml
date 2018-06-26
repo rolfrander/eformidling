@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GUI for forvaltning av delegering"
+    id="fb9c3e75-0494-4fc9-b6bf-d9e29db473a7"
+    documentation="Tjeneste hvor en bruker som representerer konsument kan logge på og spesifisere at leverandør får lov å gjøre kall med et gitt scope mot en bestemt api-tilbyder"/>

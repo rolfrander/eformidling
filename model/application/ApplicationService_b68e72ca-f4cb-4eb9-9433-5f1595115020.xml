@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lese delegering"
+    id="b68e72ca-f4cb-4eb9-9433-5f1595115020"
+    documentation="Tjeneste for å hente ut &quot;delegering&quot;"/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OAuth2-scope"
+    id="bca67e12-4404-4554-9ddc-eff2da8b16f3"
+    documentation="Scope-spesifikasjonen er knyttet til API-spesifikasjonen, men brukes bare i forbindelse med grovkornet tilgangsstyring"/>

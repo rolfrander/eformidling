@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Konsument"
+    id="1baf50f5-3c10-44d9-9e7f-d12451d7ad74"
+    documentation="Konsumenten er en virksomhet registrert i Enhetsregisteret, representert ved et organisasjonsnummer. Konsument-objektet slik det er modellert her er informasjonen registrert i enhetsregisteret, men ikke noe innhold i dette objektet er relevant for sikkerhetsmodellen, bare at det er et gyldig orgnr i enhetsregisteret."/>

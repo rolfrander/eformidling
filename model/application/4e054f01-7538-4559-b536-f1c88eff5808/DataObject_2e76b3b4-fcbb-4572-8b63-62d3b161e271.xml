@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API-spesifikasjon"
+    id="2e76b3b4-fcbb-4572-8b63-62d3b161e271"
+    documentation="Dette er en teknisk beskrivelse av et API, inkludert input-, output-meldinger, sikkerhetskrav og spesifikasjon av relevante OAuth2-&quot;scope&quot;."/>

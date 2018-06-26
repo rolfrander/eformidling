@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delegering"
+    id="2f1f4f87-6097-4344-b54f-703620c9905e"
+    documentation="Konsument delegerer myndigheten til å gjøre kall med et gitt scope hos en bestemt API-tilbyder til en driftsleverandør."/>

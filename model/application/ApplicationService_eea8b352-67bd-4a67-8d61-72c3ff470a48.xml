@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lese tilgang"
+    id="eea8b352-67bd-4a67-8d61-72c3ff470a48"
+    documentation="Tjeneste for å lage, endre eller slette &quot;grovkornet tilgang&quot;"/>

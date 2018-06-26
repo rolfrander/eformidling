@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Speiling av tilgang"
+    id="34d8ec20-594f-4740-ab59-d02cffad4fa4"
+    documentation="API-tilbyder sitt system for konfigurasjon av sikkerhet må ha en egen sub-funksjon som genererer regler for grovkornet tilgangsstyring og speiler disse over til den nasjonale tjenesten for grovkornet tilgangsstyring"/>

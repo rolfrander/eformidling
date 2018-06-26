@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API-tilbyder"
+    id="b6624438-7fff-4ef9-af12-55b0c2205911"
+    documentation="&quot;API-tilbyder&quot; er en referanse til API-katalogen som sammen med &quot;API-spesifikasjon&quot; kan brukes til å unikt identifisere et unikt &quot;implementert API&quot;. ">
+  <properties
+      key="navn"/>
+</archimate:DataObject>

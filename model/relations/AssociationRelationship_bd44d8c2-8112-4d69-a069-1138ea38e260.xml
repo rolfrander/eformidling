@@ -1,12 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Blir representert av"
-    id="7523ea5d-785b-4936-b889-912edd4907a3">
+    name="Kan kalle tjeneste hos"
+    id="bd44d8c2-8112-4d69-a069-1138ea38e260">
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_50ed981f-007d-4f87-8639-7ecf8c412f89.xml#50ed981f-007d-4f87-8639-7ecf8c412f89"/>
   <target
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_82e524c5-8d21-456d-8654-83e221f38262.xml#82e524c5-8d21-456d-8654-83e221f38262"/>
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_e6239684-164f-4c14-883c-b14b28f607f9.xml#e6239684-164f-4c14-883c-b14b28f607f9"/>
 </archimate:AssociationRelationship>

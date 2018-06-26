@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leverandør"
+    id="9baec3f9-15fe-40ab-a351-4798f305dd38"
+    documentation="Leverandør er en virksomhet registrert i Enhetsregisteret, representert ved et organisasjonsnummer. Leverandør-objektet slik det er modellert her er informasjonen registrert i enhetsregisteret, men ikke noe innhold i dette objektet er relevant for sikkerhetsmodellen, bare at det er et gyldig orgnr i enhetsregisteret.&#xD;&#xA;&#xD;&#xA;Leverandørens rolle i denne modellen er at konsumenten har delegert myndighet til å kalle et spesifikt implementert api til angitt leverandør. Denne delegeringen er kodet inn i &quot;delegering&quot;-objektet"/>

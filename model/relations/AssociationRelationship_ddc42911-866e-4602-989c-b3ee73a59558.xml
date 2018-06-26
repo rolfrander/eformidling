@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leverer driftstjenester til"
+    id="ddc42911-866e-4602-989c-b3ee73a59558">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_539cc376-c59a-40de-87a6-ff883ca6aef0.xml#539cc376-c59a-40de-87a6-ff883ca6aef0"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_50ed981f-007d-4f87-8639-7ecf8c412f89.xml#50ed981f-007d-4f87-8639-7ecf8c412f89"/>
+</archimate:AssociationRelationship>

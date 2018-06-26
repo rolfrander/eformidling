@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grovkornet tilgang"
+    id="684ad904-8247-4449-846d-d421624d03e0"
+    documentation="Grovkornet tilgangsstyring er en forbindelse mellom konsument og implementert-API, som betyr at gitt konsument (eller en leverandør som har fått delegert myndighet av konsumenten) får lov å kalle det implementerte API-et.&#xD;&#xA;&#xD;&#xA;Det implementerte API-et er ikke spesifisert direkte, men er gitt av kombinasjonen av &quot;scope&quot; og &quot;api-tilbyder&quot;&#xD;&#xA;&#xD;&#xA;API-tilbyder går inn i generert token som &quot;audience&quot;&#xD;&#xA;&#xD;&#xA;Konsument går inn i generert token som &quot;subject&quot; (evt &quot;on-behalf-of&quot;, men dersom leverandør kun skal være med for logge-formål, kan vi likegjerne si at konsument alltid er &quot;subject&quot;)"/>

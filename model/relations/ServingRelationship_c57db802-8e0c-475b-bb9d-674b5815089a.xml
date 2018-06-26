@@ -1,7 +1,6 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Brukes av"
     id="c57db802-8e0c-475b-bb9d-674b5815089a">
   <source
       xsi:type="archimate:ApplicationService"

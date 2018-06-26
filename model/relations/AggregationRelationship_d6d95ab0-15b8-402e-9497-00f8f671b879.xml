@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilbyr"
+    id="d6d95ab0-15b8-402e-9497-00f8f671b879">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_b6624438-7fff-4ef9-af12-55b0c2205911.xml#b6624438-7fff-4ef9-af12-55b0c2205911"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_b20b11ef-a3c9-421b-ae5f-6b55564cde7a.xml#b20b11ef-a3c9-421b-ae5f-6b55564cde7a"/>
+</archimate:AggregationRelationship>

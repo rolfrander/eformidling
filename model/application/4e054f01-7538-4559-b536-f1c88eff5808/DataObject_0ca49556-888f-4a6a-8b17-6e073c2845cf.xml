@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finkornet tilgang"
+    id="0ca49556-888f-4a6a-8b17-6e073c2845cf"
+    documentation="Dette er api-tilbyder sin interne tilgangsstyring. Dette er uansett master for tilgangsinformasjon. Detaljene i dette er ikke modellert, så det som her er representert som ett objekt vil i praksis være en rik datastuktur&#xD;&#xA;"/>

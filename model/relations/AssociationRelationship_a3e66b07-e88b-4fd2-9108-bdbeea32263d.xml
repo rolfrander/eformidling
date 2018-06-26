@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Representerer"
+    name="Blir representert av"
     id="a3e66b07-e88b-4fd2-9108-bdbeea32263d">
   <source
       xsi:type="archimate:BusinessActor"
